@@ -4,13 +4,7 @@ hey, I'm a developer specialising in applied machine learning and statistics. my
 
 ![](basicbit_inside_a_crowded_jazz_club_jazz_band_playing_atmospher_09107cc1-5ffc-449e-b6bc-a6077ea29465.png)
 
-welcome to my Github profile, where we keep the lights set to "glow", music on "slow", and punctuation set to "no"
-
-let me get your coat - better? wonderful. it's cold out there but waarm 🔥 in here. listen to that walking double bass baby, it's waltzing your troubles away
-
-relax, take a seat, we're open all night
-
-oh yeah.
+welcome to my Github profile, where we keep the lights set to "glow", music on "slow", and punctuation set to "low"
 
 jobs? i have a job at [faculty](https://faculty.ai/)
 
@@ -21,4 +15,3 @@ jobs? i have a job at [faculty](https://faculty.ai/)
 
 ![](basicbit_a_crashing_wave_in_the_style_of_this_image_6694c977-0228-4bc6-bc74-b27cbd19a457.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=stochastictalk&theme=synthwave)](https://git.io/streak-stats)
