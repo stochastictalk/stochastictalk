@@ -2,7 +2,7 @@ hey, I'm a developer specialising in applied machine learning and statistics. my
 
 ![](basicbit_inside_a_crowded_jazz_club_jazz_band_playing_atmospher_09107cc1-5ffc-449e-b6bc-a6077ea29465.png)
 
-welcome to my Github profile, where we keep the lights set to "glow", music on "slow", and punctuation set to "low"
+welcome to my Github profile, where we keep the lights set to "glow", music on "slow", and punctuation at "low"
 
 jobs? i have a job at [faculty](https://faculty.ai/)
 
