@@ -11,5 +11,3 @@ jobs? i have a job at [faculty](https://faculty.ai/)
 > Merrily, merrily, merrily, merrily  
 > Life is but a dream
 
-![](basicbit_a_crashing_wave_in_the_style_of_this_image_6694c977-0228-4bc6-bc74-b27cbd19a457.png)
-
