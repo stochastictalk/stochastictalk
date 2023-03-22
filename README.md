@@ -1,6 +1,6 @@
 hey, I'm a developer specialising in applied machine learning and statistics. my main skills are designing models and building them into user-facing applications. at the moment i am keenly interested in models for creating and detecting synthetic content.
 
-![](grid_0.png)
+![](grid_0.jpg)
 
 welcome to my Github profile, where we keep the lights set to "glow", music on "slow", and punctuation at "low"
 
